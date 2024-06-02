@@ -4,7 +4,7 @@ Tags: chatbot, customer support, support chat, interactive, engagement
 Requires at least: 5.2
 Tested up to: 6.5.3
 Requires PHP: 7.2
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ SupBot.Ai has a powerful node editor to create a conversation tree chatbot that 
 
 == Description ==
 
-https://youtu.be/NHGCBRCeR6E
+https://www.youtube.com/watch?v=NHGCBRCeR6E
 
 People get information in different ways. Some like to read through a webpage, some are drawn to pictures and videos, and some prefer to ask questions directly. Meeting all these needs is challenging, but for those who enjoy conversations, SupBot.Ai makes it easy. With its simple yet powerful node editor, you can create a conversation tree to guide them step-by-step. This leads to higher satisfaction and better conversion rates.
     
@@ -46,5 +46,5 @@ We also offer a paid version with advanced features and capabilities. The revenu
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.1 =
 * Initial Release
